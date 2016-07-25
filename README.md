@@ -1,4 +1,4 @@
-# [Markdown css theme collection](http://jasonm23.github.com/markdown-css-themes)
+# [Markdown css theme collection](http://jasonm23.github.io/markdown-css-themes)
 
 ### Contributing
 
