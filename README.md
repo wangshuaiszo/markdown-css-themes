@@ -2,6 +2,6 @@
 
 ### Contributing
 
-Go ahead and fork, make a copy of the index.html and add/edit a css,
-throw them in a jsfiddle, and send a pull request along with the
-jsfiddle link so I can review them.
+Go ahead and fork, all pull requests are welcome, and are accepted if they're broadly useful.
+
+Thank you.
